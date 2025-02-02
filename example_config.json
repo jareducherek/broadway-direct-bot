@@ -1,0 +1,14 @@
+{
+    "jared.ucherek@gmail.com": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@gmail.com",
+        "birthday": "01-01-1990",
+        "ticket_quantity": 2,
+        "zipcode": "01111",
+        "country": "USA",
+        "show_hours": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+        "show_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "shows": ["six-ny", "wicked", "mj-ny", "dbh-nyc", "aladdin", "redwood-ny", "the-lion-king"]
+    }
+}

@@ -9,6 +9,9 @@ dependencies = [
     "html5lib>=1.1",
     "lxml>=5.3.0",
     "pandas>=2.2.3",
+    "pydub>=0.25.1",
+    "selenium-recaptcha-solver>=1.0.8",
+    "speechrecognition>=3.14.1",
     "undetected-chromedriver>=3.5.5",
 ]
 
